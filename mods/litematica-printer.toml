@@ -1,0 +1,12 @@
+name = "Litematica Printer"
+filename = "litematica-printer-1.18.2-2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/aleksilassila/litematica-printer/releases/download/v2.3/litematica-printer-1.18.2-2.3.jar"
+hash-format = "sha1"
+hash = "d15354d81eb9fd6229a7fa4ef6b7cfee3cf896ec"
+
+[option]
+optional = true
+default = false

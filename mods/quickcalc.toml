@@ -1,0 +1,17 @@
+name = "QuickCalc"
+filename = "quickcalc-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9zk1G4t2/versions/1.1.1+1.18/quickcalc-1.1.1.jar"
+hash-format = "sha1"
+hash = "c15695d38948bf6e98b9443f512d4bd109b362f5"
+
+[update]
+[update.modrinth]
+mod-id = "9zk1G4t2"
+version = "5eOJSL6A"
+
+[option]
+optional = true
+default = false

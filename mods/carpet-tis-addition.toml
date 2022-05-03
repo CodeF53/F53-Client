@@ -1,0 +1,17 @@
+name = "Carpet TIS Addition"
+filename = "carpet-tis-addition-mc1.18.2-v1.33.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3752/381/carpet-tis-addition-mc1.18.2-v1.33.0.jar"
+hash-format = "sha1"
+hash = "b243f34b2914e3b5fab2f5a43d6efdb18740a0d5"
+
+[update]
+[update.curseforge]
+file-id = 3752381
+project-id = 397510
+
+[option]
+optional = true
+default = false

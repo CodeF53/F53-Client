@@ -1,0 +1,17 @@
+name = "Unobtrusive Bats"
+filename = "unobtrusive-bats-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i8z6dPSH/versions/3.0.0/unobtrusive-bats-3.0.0.jar"
+hash-format = "sha1"
+hash = "a09a7a1dfbc2b02a1c27b58add7e84fac0e77d46"
+
+[update]
+[update.modrinth]
+mod-id = "i8z6dPSH"
+version = "9dbCXXvj"
+
+[option]
+optional = true
+default = false

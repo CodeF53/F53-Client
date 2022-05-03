@@ -1,0 +1,12 @@
+name = "Carpet AutoCraftingTable"
+filename = "carpet-autocraftingtable-1.18-1.4.56.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gnembon/carpet-autoCraftingTable/releases/download/1.4.56/carpet-autocraftingtable-1.18-1.4.56.jar"
+hash-format = "sha1"
+hash = "9319ee99f1d5850e29bc62f79eaa210b1ce550bf"
+
+[option]
+optional = true
+default = false

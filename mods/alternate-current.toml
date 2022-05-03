@@ -1,0 +1,17 @@
+name = "Alternate Current"
+filename = "alternate-current-mc1.18-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.2.0/alternate-current-mc1.18-1.2.0.jar"
+hash-format = "sha1"
+hash = "22f7394d92b00aa1b07e64f514019e0be22e3e00"
+
+[update]
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "N8AvvTfs"
+
+[option]
+optional = true
+default = false

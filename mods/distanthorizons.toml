@@ -1,0 +1,17 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-1.6.3a-1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar"
+hash-format = "sha1"
+hash = "b3da024bf73951522b287ea41ce9763589275703"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "qLXa9pDD"
+
+[option]
+optional = true
+default = false

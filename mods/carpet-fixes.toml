@@ -1,0 +1,17 @@
+name = "Carpet-Fixes"
+filename = "carpet-fixes-1.18.x-1.7.6+v220420.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3760/161/carpet-fixes-1.18.x-1.7.6+v220420.jar"
+hash-format = "sha1"
+hash = "9c57bb67fae578d47758645225b85f499b45df0d"
+
+[update]
+[update.curseforge]
+file-id = 3760161
+project-id = 529720
+
+[option]
+optional = true
+default = false

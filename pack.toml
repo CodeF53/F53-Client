@@ -1,0 +1,13 @@
+name = "F53 Client"
+author = "F53"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c557ae16f5ce5a3b24da0604f2434938cce372c9bd06349c32db414a45297768"
+
+[versions]
+fabric = "0.14.4"
+minecraft = "1.18.2"
