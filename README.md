@@ -1,5 +1,6 @@
 # F53 Client
-A Minecraft modpack for people who play vanilla but want things
+A Minecraft modpack for people who play vanilla but want things\
+(currently just an example of a pitched modpack format, nothing can use this in its current state)
 
 # Mod List:
 ## Default:
