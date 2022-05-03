@@ -1,0 +1,919 @@
+{
+    "formatVersion": 2,
+    "game": "minecraft",
+    "versionId": "1.0.0",
+    "name": "F53 Client",
+    "files": [
+        {
+            "path": "mods/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar",
+            "hashes": {
+                "sha1": "c817fbc6798d50ad45f586a66d5b54dc4fa3bf33"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/1.18.2-fabric0.47.10-1.3.1/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/alternate-current-mc1.18-1.2.0.jar",
+            "hashes": {
+                "sha1": "22f7394d92b00aa1b07e64f514019e0be22e3e00"
+            },
+            "env": {
+                "client": "unsupported",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.2.0/alternate-current-mc1.18-1.2.0.jar"
+            ],
+            "group": [
+              "Additional Optimizations"
+            ]
+        },
+        {
+            "path": "mods/appleskin-fabric-mc1.18.2-2.4.0.jar",
+            "hashes": {
+                "sha1": "07cc0f6d00b184bef9c4390682c098d5ca52e67d"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.0/appleskin-fabric-mc1.18.2-2.4.0.jar"
+            ],
+            "group": [
+              "Quality of Life"
+            ]
+        },
+        {
+            "path": "mods/borderless-mining-1.1.2+1.18.2.jar",
+            "hashes": {
+                "sha1": "2a7490d56d040529c86e0d1e4017cb825381bf78"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.2+1.18.2/borderless-mining-1.1.2%2B1.18.2.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.0-all.jar",
+            "hashes": {
+                "sha1": "972a35c39823885b2853d6a6053b13de53a01272"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.7.0+1.18.2/c2me-fabric-mc1.18.2-0.2.0%2Balpha.7.0-all.jar"
+            ],
+            "group": [
+              "Additional Optimizations"
+            ]
+        },
+        {
+            "path": "mods/Capes-1.3.0+1.18.2.jar",
+            "hashes": {
+                "sha1": "5a1d6eaeaf9a9bd36f82f720422606784d11f21a"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.3.0+1.18.2/Capes-1.3.0%2B1.18.2.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/carpet-autocraftingtable-1.18-1.4.56.jar",
+            "hashes": {
+                "sha1": "9319ee99f1d5850e29bc62f79eaa210b1ce550bf"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://github.com/gnembon/carpet-autoCraftingTable/releases/download/1.4.56/carpet-autocraftingtable-1.18-1.4.56.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Extras"
+            ],
+            "requires": [
+              ["Carpet"]
+            ]
+        },
+        {
+            "path": "mods/carpet-extra-1.18.2-1.4.72.jar",
+            "hashes": {
+                "sha1": "220d81edfeff213fc811c0b86bb2cbe64187eb66"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3764/752/carpet-extra-1.18.2-1.4.72.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Extras"
+            ],
+            "requires": [
+              ["Carpet"]
+            ]
+        },
+        {
+            "path": "mods/carpet-fixes-1.18.x-1.7.6+v220420.jar",
+            "hashes": {
+                "sha1": "9c57bb67fae578d47758645225b85f499b45df0d"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3760/161/carpet-fixes-1.18.x-1.7.6+v220420.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Extras"
+            ],
+            "requires": [
+              ["Carpet"]
+            ]
+        },
+        {
+            "path": "mods/carpet-tis-addition-mc1.18.2-v1.33.0.jar",
+            "hashes": {
+                "sha1": "b243f34b2914e3b5fab2f5a43d6efdb18740a0d5"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3752/381/carpet-tis-addition-mc1.18.2-v1.33.0.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Extras"
+            ],
+            "requires": [
+              ["Carpet"]
+            ]
+        },
+        {
+            "path": "mods/fabric-carpet-1.18.2-1.4.69+v220331.jar",
+            "hashes": {
+                "sha1": "674c6810bfee5f75d8ce71059dfda015b4729838"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3725/895/fabric-carpet-1.18.2-1.4.69+v220331.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools"
+            ],
+            "name": [
+              "Carpet"
+            ]
+        },
+        {
+            "path": "mods/cem-0.7.1.jar",
+            "hashes": {
+                "sha1": "cdee86c59231dbe6df3aa17cfa2041221346306b"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1/cem-0.7.1.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/chesttracker-1.18.2-1.1.13.jar",
+            "hashes": {
+                "sha1": "f2e83a9011eef7e1321e970e48a3673f42f959cf"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ni4SrKmq/versions/1.1.13/chesttracker-1.18.2-1.1.13.jar"
+            ],
+            "group": [
+              "Quality of Life"
+            ]
+        },
+        {
+            "path": "mods/CITResewn-1.0.1+1.18.2.jar",
+            "hashes": {
+                "sha1": "cf16285fe5c6c8e03beff83b4b4b8ee054a381d0"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/1.0.1+1.18.2/CITResewn-1.0.1%2B1.18.2.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/colormatic-3.1.1+mc.1.18.2.jar",
+            "hashes": {
+                "sha1": "d3af2a138c40336bd9a62a27499d7ca4e80e8dc4"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/V4IQxkZC/versions/3.1.1/colormatic-3.1.1%2Bmc.1.18.2.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/continuity-1.1.0+1.18.2.jar",
+            "hashes": {
+                "sha1": "a5ff4cb7d4c0fc3b5809a52b096b92ccf9d8cb55"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/1.1.0+1.18.2/continuity-1.1.0%2B1.18.2.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/CullLessLeaves-1.0.0.jar",
+            "hashes": {
+                "sha1": "19559b8892f43cfd938a3900d9bec47baf51b767"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.0/CullLessLeaves-1.0.0.jar"
+            ],
+            "group": [
+              "Additional Optimizations"
+            ]
+        },
+        {
+            "path": "mods/DistantHorizons-1.6.3a-1.18.2.jar",
+            "hashes": {
+                "sha1": "b3da024bf73951522b287ea41ce9763589275703"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar"
+            ],
+            "group": [
+              "Pretty"
+            ],
+            "name": [
+              "Distant Horizons"
+            ],
+            "conflicts": [
+              ["Phosphor"]
+            ],
+            "description": [
+              "Adds simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances\nWorks best in singleplayer"
+            ]
+        },
+        {
+            "path": "mods/eating-animation-1.6.jar",
+            "hashes": {
+                "sha1": "bda6f2dbb141e6240fed1855d61a2d5e70d5ba4f"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3748/909/eating-animation-1.6.jar"
+            ],
+            "group": [
+              "Pretty"
+            ]
+        },
+        {
+            "path": "mods/entityculling-fabric-mc1.18-1.5.1.jar",
+            "hashes": {
+                "sha1": "523c57485a469c581d7a9bd18ec86c7a92a0ec93"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3743/933/entityculling-fabric-mc1.18-1.5.1.jar"
+            ]
+        },
+        {
+            "path": "mods/entity-texture-features-1.18+_2.6.0.jar",
+            "hashes": {
+                "sha1": "f2143a3818a3918e6e3ec74b5aa0276215866af3"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.6.0/entity-texture-features-1.18%2B_2.6.0.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/fastopenlinksandfolders-1.1.0.jar",
+            "hashes": {
+                "sha1": "4318049b69cb9a3d8979fda3b19424b01c64a621"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3629/291/fastopenlinksandfolders-1.1.0.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/ferritecore-4.2.1-fabric.jar",
+            "hashes": {
+                "sha1": "d5d047374981d614c2a53422be751dc1491f9cd0"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar"
+            ]
+        },
+        {
+            "path": "mods/forgetmechunk-1.18.X-1.0.3.jar",
+            "hashes": {
+                "sha1": "0cc5ebb9748e58aadc1770bac292f5f263e8eb9d"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/vRXn3MrA/versions/1.0.3/forgetmechunk-1.18.X-1.0.3.jar"
+            ],
+            "group": [
+              "Additional Optimizations"
+            ]
+        },
+        {
+            "path": "mods/iris-mc1.18.2-1.2.4-build.38.jar",
+            "hashes": {
+                "sha1": "2442df3bf18516737f8cfd5badd836a7e34f6288"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.4/iris-mc1.18.2-1.2.4-build.38.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/itemscroller-fabric-1.18.2-craftfix-1.2.6.jar",
+            "hashes": {
+                "sha1": "3a6b38d0a91c475c321ff1422d5efe346936ff7b"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://github.com/Andrews54757/itemscroller-crafting-fix/releases/download/1.2.6b/itemscroller-fabric-1.18.2-craftfix-1.2.6.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods/Alternates"
+            ],
+            "name": [
+              "Item Scroller Crafting Fix"
+            ],
+            "conflicts": [
+              ["Item Scroller"]
+            ],
+            "description": [
+              "Customized version of Itemscroller that fixes automatic crafting features\nOnly use if you need these custom features, as its harder to get support for this fork"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/itemscroller-fabric-1.18.2-0.16.0.jar",
+            "hashes": {
+                "sha1": "0127e415898a4dfe88b3bc758c4e4c3e272c5d7a"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3671/377/itemscroller-fabric-1.18.2-0.16.0.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods"
+            ],
+            "name": [
+              "Item Scroller"
+            ],
+            "conflicts": [
+              ["Item Scroller Crafting Fix"]
+            ],
+            "description": [
+              "Makes moving large amounts of items a breeze"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/lambdabettergrass-1.2.3+1.18.jar",
+            "hashes": {
+                "sha1": "f5bdcf5dde183ca6c5b8ee28ab6193c1a9ef390d"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%2B1.18.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/lambdynamiclights-2.1.0+1.17.jar",
+            "hashes": {
+                "sha1": "5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/lazydfu-0.1.2.jar",
+            "hashes": {
+                "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar"
+            ]
+        },
+        {
+            "path": "mods/litematica-printer-1.18.2-2.3.jar",
+            "hashes": {
+                "sha1": "d15354d81eb9fd6229a7fa4ef6b7cfee3cf896ec"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://github.com/aleksilassila/litematica-printer/releases/download/v2.3/litematica-printer-1.18.2-2.3.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods/Alternates"
+            ],
+            "name": [
+              "Litematica Printer"
+            ],
+            "conflicts": [
+              ["Litematica"]
+            ],
+            "description": [
+              "Build big structures more quickly by automatically placing the correct blocks around you\nIf you think that is cheaty, go with the base Litematica"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/litematica-fabric-1.18.2-0.11.2.jar",
+            "hashes": {
+                "sha1": "8d3faf150dd06a5955a9f81637871716a983d4b3"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3751/645/litematica-fabric-1.18.2-0.11.2.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods"
+            ],
+            "name": [
+              "Litematica"
+            ],
+            "conflicts": [
+              ["Litematica Printer"]
+            ],
+            "description": [
+              "Make a schematic, visualze it in the world, build it yourself layer by layer\nExcellent tool for designing farms in creative and then bringing it over to survival"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/lithium-fabric-mc1.18.2-0.7.9.jar",
+            "hashes": {
+                "sha1": "2f0298476ba54e8fc640c9bfe132a193db45b92b"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar"
+            ]
+        },
+        {
+            "path": "mods/malilib-fabric-1.18.2-0.12.1.jar",
+            "hashes": {
+                "sha1": "a810cf1f28751ac2681ab94a1f00b58c49884649"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3692/220/malilib-fabric-1.18.2-0.12.1.jar"
+            ],
+            "name": [
+              "MaLiLib"
+            ],
+            "hidden": [
+              true
+            ]
+        },
+        {
+            "path": "mods/minihud-fabric-1.18.2-0.22.0.jar",
+            "hashes": {
+                "sha1": "dc85e2befc102c9260f6eebeb72317043ce6530a"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3671/392/minihud-fabric-1.18.2-0.22.0.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/modmenu-3.2.1.jar",
+            "hashes": {
+                "sha1": "2366c41842dd070cb400aba8cb7d3241d175a71e"
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.1/modmenu-3.2.1.jar"
+            ]
+        },
+        {
+            "path": "mods/notenoughcrashes-4.1.6+1.18.2-fabric.jar",
+            "hashes": {
+                "sha1": "ef051ab6a831f7ffd03162e54b2e997b604efaca"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.18.2-fabric/notenoughcrashes-4.1.6%2B1.18.2-fabric.jar"
+            ]
+        },
+        {
+            "path": "mods/phosphor-fabric-mc1.18.x-0.8.1.jar",
+            "hashes": {
+                "sha1": "9b826d21b9cd999853a57c76b0c47ee4d9161dc9"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar"
+            ],
+            "group": [
+              "Additional Optimizations/Light Engine Optimizer"
+            ],
+            "name": [
+              "Phosphor"
+            ],
+            "conflicts": [
+              ["Starlight", "Distant Horizons"]
+            ],
+            "description": [
+              "Optimizes the light engine\nA bit slower than Starlight but doesn't break anything."
+            ]
+        },
+        {
+            "path": "mods/puzzle-1.2.1.jar",
+            "hashes": {
+                "sha1": "be946b8c5a8b5499b18b89fdf3c14c8c708b056f"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.2.1/puzzle-1.2.1.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        },
+        {
+            "path": "mods/quickcalc-1.1.1.jar",
+            "hashes": {
+                "sha1": "c15695d38948bf6e98b9443f512d4bd109b362f5"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/9zk1G4t2/versions/1.1.1+1.18/quickcalc-1.1.1.jar"
+            ],
+            "group": [
+              "Quality of Life"
+            ]
+        },
+        {
+            "path": "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar",
+            "hashes": {
+                "sha1": "eecfa116802f89921e1b3a11f14240a08b97573b"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.2/reeses_sodium_options-mc1.18.2-1.4.2.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/screenshot-to-clipboard-1.0.9-fabric.jar",
+            "hashes": {
+                "sha1": "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9+fabric/screenshot-to-clipboard-1.0.9-fabric.jar"
+            ],
+            "group": [
+              "Quality of Life"
+            ]
+        },
+        {
+            "path": "mods/skiptransitions-1.3.2+1.18.x.jar",
+            "hashes": {
+                "sha1": "ba6c0af7fc1d9a93152c4a173d35e196de2480e8"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Zoz5HQjH/versions/v1.3.2+mc1.18.x/skiptransitions-1.3.2%2B1.18.x.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/smoothboot-fabric-1.18.2-1.7.0.jar",
+            "hashes": {
+                "sha1": "3ca71bca131120dcea2b6edf4d71773f0e1f820b"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3692/365/smoothboot-fabric-1.18.2-1.7.0.jar"
+            ]
+        },
+        {
+            "path": "mods/sodium-extra-mc1.18.2-0.4.3.jar",
+            "hashes": {
+                "sha1": "026226ee3777ee0dc1226b843271447afc551349"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.3/sodium-extra-mc1.18.2-0.4.3.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+            "hashes": {
+                "sha1": "f839863a6be7014b8d80058ea1f361521148d049"
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar"
+            ]
+        },
+        {
+            "path": "mods/starlight-1.0.2+fabric.89b8d9f.jar",
+            "hashes": {
+                "sha1": "a436b72ee514bd2b59900159bcc4d461f96ef340"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar"
+            ],
+            "group": [
+              "Additional Optimizations/Light Engine Optimizer"
+            ],
+            "name": [
+              "Starlight"
+            ],
+            "conflicts": [
+              ["Phosphor"]
+            ],
+            "description": [
+              "Optimizes the light engine\nFaster than Phosphor but breaks light update suppression.\nIf you don't know that that is, select this."
+            ]
+        },
+        {
+            "path": "mods/tooltipfix-1.0.4-1.18.jar",
+            "hashes": {
+                "sha1": "16b844c45ce0e4f1159ff51739479e8747a64d84"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3543/273/tooltipfix-1.0.4-1.18.jar"
+            ],
+            "group": [
+              "GUI Improvements"
+            ]
+        },
+        {
+            "path": "mods/tweakeroo-fabric-1.18.2-0.13.1.jar",
+            "hashes": {
+                "sha1": "7ccbb23910574cf972c93137832043900f44fcb9"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3672/640/tweakeroo-fabric-1.18.2-0.13.1.jar"
+            ],
+            "group": [
+              "Technical Minecraft Tools/Masa Mods"
+            ],
+            "requires": [
+              ["MaLiLib"]
+            ]
+        },
+        {
+            "path": "mods/unobtrusive-bats-3.0.0.jar",
+            "hashes": {
+                "sha1": "a09a7a1dfbc2b02a1c27b58add7e84fac0e77d46"
+            },
+            "env": {
+                "client": "optional",
+                "server": "optional"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/i8z6dPSH/versions/3.0.0/unobtrusive-bats-3.0.0.jar"
+            ],
+            "group": [
+              "Quality of Life"
+            ]
+        },
+        {
+            "path": "mods/visuality-0.4.2.jar",
+            "hashes": {
+                "sha1": "f77748cf78fa5f844e457fd0d473c39ff3894431"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar"
+            ],
+            "group": [
+              "Pretty"
+            ]
+        },
+        {
+            "path": "mods/Zoomify-1.5.0.jar",
+            "hashes": {
+                "sha1": "7c06669acbb0e0e832fef795e5e98e2990af0145"
+            },
+            "env": {
+                "client": "optional",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.5.0/Zoomify-1.5.0.jar"
+            ],
+            "group": [
+              "Optifine Compatibility"
+            ]
+        }
+    ],
+    "dependencies": {
+        "fabric-loader": "0.14.4",
+        "minecraft": "1.18.2"
+    }
+}

@@ -2,7 +2,7 @@
 A Minecraft modpack for people who play vanilla but want things
 
 # Mod List:
-## Default:
+Default:
 - Sodium
 - Lithium
 - ModMenu
@@ -11,9 +11,8 @@ A Minecraft modpack for people who play vanilla but want things
 - EntityCulling
 - FerriteCore
 - NotEnoughCrashes
-
-## Optional:
-### Additional Optimizations:
+Optional:
+- Additional Optimizations:
   - Light Engine Optimizer
     - Starlight
     - Phosphor
@@ -21,21 +20,20 @@ A Minecraft modpack for people who play vanilla but want things
   - Alternate Current
   - ForgetMeChunk
   - Cull Less Leaves
-
-### Optifine Compatibility
+- Optifine Compatibility
+  - ~~Animatica~~ not available for 1.18.2
   - Colormatic
   - Continuity
   - CIT Resewn
   - Custom Entity Models
   - Entity Texture Features
-  - Capes
+  - Fabric Capes
   - LambDynamicLights
   - LambdaBetterGrass
   - Puzzle
   - Iris
   - Zoomify
-
-### GUI Improvements
+- GUI Improvements
   - AdvancementInfo
   - Reese's Sodium Options
   - Sodium Extra
@@ -43,20 +41,18 @@ A Minecraft modpack for people who play vanilla but want things
   - Skip Transitions
   - Borderless Mining
   - FastOpenLinksAndFolders
-
-### Pretty
+- Pretty
   - Distant Horizons
+  - Bobby
   - Visuality
-  - Eating animation
-
-### Quality of Life
+  - Eating Animation
+- Quality of Life
   - QuickCalc
   - Unobtrusive Bats
   - ChestTracker
   - AppleSkin
   - Screenshot to Clipboard
-
-### Technical Minecraft Tools
+- Technical Minecraft Tools
   - Carpet
   - Masa Mods
     - Alternates
@@ -71,3 +67,8 @@ A Minecraft modpack for people who play vanilla but want things
     - Carpet TIS Addition
     - Carpet AutoCraftingTable
     - Carpet Fixes
+
+Todo:
+- compile to .mrpack and manually add
+  - Categories
+  - Incompatibilities
